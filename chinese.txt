@@ -1,0 +1,9 @@
+***********   chinese    ***********
+
+veg manchurian     : 60 Rs
+Fried rice         : 70 Rs
+cheese balls       : 50 Rs
+chinese bhel       : 40 Rs
+paneer manchurian  : 80 Rs
+Noodles            : 60 Rs
+veg soup           : 60 Rs

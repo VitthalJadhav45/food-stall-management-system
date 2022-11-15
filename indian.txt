@@ -1,0 +1,19 @@
+**************** indian ********************
+
+North indian :
+panner tikka masala : 240 Rs
+kaju curry          : 200 Rs
+palak paneer        : 180 Rs
+mushroom masala     : 190 Rs
+veg kolhapuri       : 170 Rs
+kofta curry         : 220 Rs
+
+************************************************
+
+South indian :
+dosa          : 60 Rs
+uttapam       : 70 Rs
+idali sambar  : 50 Rs
+vada chutney  : 40 Rs
+upama         : 30 Rs
+masala dosa   : 80 Rs

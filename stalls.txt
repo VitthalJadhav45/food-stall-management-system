@@ -1,0 +1,39 @@
+chinese :
+veg manchurian     : 60 Rs
+Fried rice         : 70 Rs
+cheese balls       : 50 Rs
+chinese bhel       : 40 Rs
+paneer manchurian  : 80 Rs
+Noodles            : 60 Rs
+veg soup           : 60 Rs
+
+************************************************
+
+North indian :
+panner tikka masala : 240 Rs
+kaju curry          : 200 Rs
+palak paneer        : 180 Rs
+mushroom masala     : 190 Rs
+veg kolhapuri       : 170 Rs
+kofta curry         : 220 Rs
+
+************************************************
+
+South indian :
+dosa          : 60 Rs
+uttapam       : 70 Rs
+idali sambar  : 50 Rs
+vada chutney  : 40 Rs
+upama         : 30 Rs
+masala dosa   : 80 Rs
+
+************************************************
+
+other items :
+cold cofee : 20 Rs
+Tea        : 20 Rs
+tea        : 10 Rs
+cake       : 50 Rs
+drink      : 20 Rs
+special    : 30 Rs
+     
